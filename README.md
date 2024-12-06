@@ -12,8 +12,8 @@ I'm a motivated **Computer Engineering student** at York University with a passi
 - 💼 **Experience**:
   - **Senior Technical Student** at Toronto Hydro: Led process improvements using ERP tools, created detailed technical documentation, and implemented workflow automation using PowerShell scripts.
   - **Undergraduate Research Assistant** at York University: Developed machine learning models to analyze airborne disease transmission, contributing to a published research paper.
-- 🌱 **Currently Learning**: Advanced web development (React, Node.js), and machine learning.
-- 💬 **Ask me about**: Project management, machine learning, web development, data structures, and algorithms.
+- 🌱 **Currently Learning**: Full stack web development (React, Node.js), data science, and more machine learning.
+- 💬 **Ask me about**: Project management, machine learning, web development, data structures and algorithms.
 
 ## Skills
 
@@ -59,12 +59,12 @@ I'm a motivated **Computer Engineering student** at York University with a passi
   - Optimized algorithms to handle large grid sizes and memory constraints.
   - Presented the solution to a panel of judges, achieving 2nd place among competitors.
 
-### **[FPGA Calculator](https://github.com/Keandre/FPGA-Calculator)**
-- **Overview**: Built a fully functional calculator on FPGA hardware using Verilog.
-- **Technologies**: Verilog, Quartus, DE10-Lite
+### **[Personal Portfolio Website](https://keandre.github.io)**
+- **Overview**: Developed a personal portfolio website to showcase projects and skills.
+- **Technologies**: React, JavaScript, HTML, CSS, GitHub Pages
 - **Key Contributions**:
-  - Designed and implemented hardware logic for arithmetic operations and real-time display using a 7-segment display.
-  - Integrated user interaction with switches and ensured accurate computation results.
+  - Designed and implemented a responsive user interface to highlight professional experience and projects.
+  - Deployed the website using GitHub Pages for seamless access and maintenance.
 
 ## How to Reach Me
 
